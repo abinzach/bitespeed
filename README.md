@@ -11,11 +11,11 @@ A chatbot flow builder.
 
 ## Deploy Link
 
-
+https://bitespeed-13v8svv70-abinzach.vercel.app/
 
 ## Description
 
-A node-based chatbot flow builder that allows you to create conversations with a user in an organized manner using react-flow.
+A node-based chatbot flow builder that allows you to create conversations with a user in an organized manner using NextJS and ReactFlow.
 
 ## Features
 
@@ -27,15 +27,16 @@ List the main features of your Next.js project:
 
 ## Installation
 
-Provide instructions on how to install and set up your Next.js project locally. Include any dependencies and commands needed to get started.
-
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/abinzach/bitespeed.git
 
 # Navigate to the project directory
-cd <project-directory>
+cd bitespeed
 
 # Install dependencies
 npm install
+
+# Run the development server
+npm run dev
 ```
